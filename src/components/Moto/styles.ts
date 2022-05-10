@@ -27,7 +27,7 @@ export const Details = styled.View`
 export const Brand = styled.Text`
   font-family: ${({ theme }) => theme.fonts.primary_500};
   color: ${({ theme }) => theme.colors.title};
-  font-size: ${RFValue(15)}px;
+  font-size: ${RFValue(11)}px;
 
   text-transform: uppercase;
   font-weight: bold;
@@ -36,19 +36,19 @@ export const Brand = styled.Text`
 export const NameMoto = styled.Text`
   font-family: ${({ theme }) => theme.fonts.secondary_400};
   color: ${({ theme }) => theme.colors.title};
-  font-size: ${RFValue(15)}px;
+  font-size: ${RFValue(11)}px;
 `;
 
 export const Potency = styled.Text`
   font-family: ${({ theme }) => theme.fonts.secondary_400};
   color: ${({ theme }) => theme.colors.title};
-  font-size: ${RFValue(15)}px;
+  font-size: ${RFValue(11)}px;
 `;
 
 export const Price = styled.Text`
   font-family: ${({ theme }) => theme.fonts.secondary_400};
   color: ${({ theme }) => theme.colors.success};
-  font-size: ${RFValue(15)}px;
+  font-size: ${RFValue(11)}px;
 `;
 export const MotoImage = styled.Image`
   width: 167px;
