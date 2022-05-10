@@ -1,0 +1,88 @@
+{
+  "motors": [
+    {
+      "id": "1",
+      "brand": "Kawasaki",
+      "name": "Ninja Zx-10r Krt Edition",
+      "about": "A preparação desta Ninja ZX-10R KRT Limited Edition consiste na instalação de acessórios para melhorar ainda mais a performance do conjunto, como um escapamento completo da Akrapovic, pneus Pirelli Diablo Super Corsa SP V3, conjunto de spoilers aerodinâmicos, semi guidões Renthal, protetor da alavanca de freio e contrapesos",
+      "price": 900,
+      "thumbnail": "https://kawasaki.m3parts.com.br/arquivos/1592599435ddit_capa.png",
+      "potency": "998cc",
+      "photos": [
+        "https://kawasaki.m3parts.com.br/arquivos/1592599435ddit_capa.png",
+        "https://content2.kawasaki.com/ContentStorage/KMB/Products/5418/193470b8-d8e5-410d-abc7-db073a93bef0.jpg?w=510&h=340&mode=crop",
+        "https://content2.kawasaki.com/ContentStorage/KMB/Products/5418/2a1f893f-287a-43a8-a79e-9bcd4260838c.jpg?w=510&h=340&mode=crop"
+      ]
+    },
+    {
+      "id": "2",
+      "brand": "Kawasaki",
+      "name": "Ninja 650 Krt Edition",
+      "about": "DINÂMICA E ELEGANTE. A carenagem elegante inclui uma bolha dianteira com estilo afiado e uma forte semelhança com os modelos superesportivos Ninja da Kawasaki, como um escapamento completo da Akrapovic, pneus Pirelli Diablo Super Corsa SP V3, conjunto de spoilers aerodinâmicos, semi guidões Renthal, protetor da alavanca de freio e contrapesos. ",
+      "price": 800,
+      "thumbnail": "https://content2.kawasaki.com/ContentStorage/KMB/Products/5435/e90e5683-bd33-4653-a4ab-63962e898571.jpg?w=510&h=340&mode=crop",
+      "potency": "649cc",
+      "photos": [
+        "https://kawasaki.m3parts.com.br/arquivos/1592599435ddit_capa.png",
+        "https://content2.kawasaki.com/ContentStorage/KMB/Products/5435/368ea65d-ef6b-4186-9fa3-d6a80797305f.jpg?w=510&h=340&mode=crop",
+        "https://content2.kawasaki.com/ContentStorage/KMB/Products/5435/99b7e217-5f29-4d7e-84a7-e0334fe13c22.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "brand": "Kawasaki",
+      "name": "Versys-X 300 Tourer",
+      "about": "A Versys-X 300 é equipada com rodas raiadas de 19” na dianteira e 17” na traseira, que além de serem leves e duráveis, são também são estilosas, como um escapamento completo da Akrapovic, pneus Pirelli Diablo Super Corsa SP V3, conjunto de spoilers aerodinâmicos, semi guidões Renthal, protetor da alavanca de freio e contrapesos.",
+      "price": 700,
+      "thumbnail": "https://content2.kawasaki.com/ContentStorage/KMB/ProductTopFeature/1030/be94269c-712c-42e8-9156-0ecfbea8fff5.jpg?w=800",
+      "potency": "296cc",
+      "photos": [
+        "https://content2.kawasaki.com/ContentStorage/KMB/ProductTopFeature/1030/be94269c-712c-42e8-9156-0ecfbea8fff5.jpg?w=800",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmTpizpYezcG_Co8KZQsGWinmPz3IWXZfXm6q5xq-savvCGSdzMETAHyBgsR62LjxQGh8&usqp=CAU",
+        "https://bikesales.pxcrush.net/cars/dealer/abb1nueeumfzlxf83b8o0nj8y.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "brand": "Kawasaki",
+      "name": "Z650",
+      "about": "A Z650 oferece estilo agressivo com uma mistura ideal de desempenho esportivo e versatilidade com um motor de 649cc e manuseio confiável, como um escapamento completo da Akrapovic, pneus Pirelli Diablo Super Corsa SP V3, conjunto de spoilers aerodinâmicos, semi guidões Renthal, protetor da alavanca de freio e contrapesos.",
+      "price": 600,
+      "thumbnail": "https://motonewsbrasil.com/wp-content/uploads/2019/06/kawasaki-z650-2020-2.jpg",
+      "potency": "649cc",
+      "photos": [
+        "https://motonewsbrasil.com/wp-content/uploads/2019/06/kawasaki-z650-2020-2.jpg",
+        "https://i0.statig.com.br/bancodeimagens/8h/yd/60/8hyd60nuc76z7qp5h7czp82rz.jpg",
+        "https://kawasaki.m3parts.com.br/arquivos/1634838151_22er650k_44sgn1dls3cg_a.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "brand": "Kawasaki",
+      "name": "Kx450x",
+      "about": "O potente motor 4 tempos de 449 cc vindo da KX450 apresenta a atuação da válvula do tipo “finger-follower” (projetado pelos engenheiros da equipe Kawasaki do World Superbike) e admissão do tipo “downdraft” para uma emocionante performance e uma curva de torque plana que facilita a aceleração.",
+      "price": 200,
+      "thumbnail": "https://img.r7.com/images/kawasaki-brasil-lanca-kx-250-kx-250x-e-kx-450-20112020125738700?dimensions=460x305&&resize=460x305&crop=640x424+0+34",
+      "potency": "449cc",
+      "photos": [
+        "https://img.r7.com/images/kawasaki-brasil-lanca-kx-250-kx-250x-e-kx-450-20112020125738700?dimensions=460x305&&resize=460x305&crop=640x424+0+34",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/16KX450H_201LIMDRS00D_C.png",
+        "https://kawasaki.m3parts.com.br/arquivos/1605705642c__ecfd2276_9f48_4be3_86e0_2de1223ba3d8.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "brand": "Kawasaki",
+      "name": "Ninja 400",
+      "about": "Oferece a maior cilindrada da categoria, 399 cc, com a sofisticação da potência do motor bicilíndrico. Potência acessível, ergonomia excelente e desempenho líder na categoria proporciona uma experiência suave.",
+      "price": 400,
+      "thumbnail": "https://fichasmotor.com/images/kawasaki/kawasaki-ninja-400-2022.webp",
+      "potency": "400cc",
+      "photos": [
+        "https://fichasmotor.com/images/kawasaki/kawasaki-ninja-400-2022.webp",
+        "https://www.moto.com.br/img/2021/12/08/kawasaki_ninja_400-2022-1-1638970911-v1.png",
+        "https://www.chavesnamao.com.br/imn/0358x0200/N/veiculos/55505/1524259/kawasaki-ninja-em-chapeco-sc-ee5aa1853e9-00.jpg"
+      ]
+    }
+  ]    
+}
